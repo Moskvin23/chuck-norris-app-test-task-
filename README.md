@@ -1,3 +1,8 @@
+#Link to view layout in Figma.
+
+https://www.figma.com/file/ed8dWuE8nGApYkLBioNPH3/Chuck-Norris?node-id=0%3A1
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
