@@ -1,0 +1,44 @@
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  
+img {
+    height: 43px;
+  width: 43px;
+  margin-left: 160px;
+  margin-top: 4px;
+}
+
+
+
+.headerText{
+    padding-left: 8px;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.typography{  
+    display: flex;
+  
+}
+.appbar{
+  display: flex;
+    width: 1440px;
+    height: 59px;
+}
+@media screen and (max-width: 500px) {
+  
+  img{
+    margin-left: 90px;
+  }
+}
+@media screen and (max-width: 400px) {
+  
+  img{
+    margin-left: 5px;
+
+  }
+}
